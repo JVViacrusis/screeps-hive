@@ -1,9 +1,5 @@
 # HIVE
-### A screeps 
-
-Personal scripts for screeps.
-
-Written in an architecture of my own design: Hive
+### A screeps architecture by Justin Viacrusis
 
 Main {a bunch of vars that need to be calculated once} ->
 Category Overseer {decide what needs to be done and assigns workers for the job} ->
