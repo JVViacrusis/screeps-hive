@@ -7,5 +7,4 @@ var workerMiner = {
     }
 }
 
-
 module.exports = workerMiner;
