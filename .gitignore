@@ -1,3 +1,5 @@
 node_modules/*
 
+#ignore emacs buffer files
 *@pop-os*
+.#*
